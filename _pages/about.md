@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> Juneyoung Yoon </p>
+    <p> Juneyoung Yoon (윤준영)</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -31,4 +31,4 @@ My research interests generally focus on computer vision and robot manipulations
 
 You can find my papers in here! [publications](/publications/)
 
-Feel free to get in touch! [junyoung27@gm.gist.ac.kr](mailto:junyoung27@gm.gist.ac.kr) or [LinkedIn](https://www.linkedin.com/in/juneyoung-yoon-455750332/).
+Feel free to get in touch! mail to [junyoung27@gm.gist.ac.kr](mailto:junyoung27@gm.gist.ac.kr) or by [LinkedIn](https://www.linkedin.com/in/juneyoung-yoon-455750332/).
