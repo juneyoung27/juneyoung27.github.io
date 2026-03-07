@@ -25,8 +25,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi there! I recently earned my Bachelor’s degree in Electrical Engineering and Computer Science from the Gwangju Institute of Science and Technology (GIST), where I was advised by Prof. Uehwan Kim. I am currently pursuing my Master’s degree at GIST.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests generally focus on computer vision and robot manipulations. Currently, I am particularly interested in (1) understanding and improving Vision-Language-Action (VLA) models, and (2) Developing reliable task planning that can adapt effectively to unforeseen situations. My goal is to enable robots to behave reliably in diverse real-world scenarios and interact seamlessly with humans.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+You can find my papers and CV in here! [publications](/publications/) [CV](/cv/)
+
+Feel free to get in touch! [email](mailto:junyoung27@gm.gist.ac.kr) or [LinkedIn](https://www.linkedin.com/in/juneyoung-yoon-455750332/).
