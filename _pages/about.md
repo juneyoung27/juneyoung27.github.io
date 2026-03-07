@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi there! I recently earned my Bachelor’s degree in Electrical Engineering and Computer Science from the Gwangju Institute of Science and Technology (GIST), where I was advised by Prof. [Uehwan Kim](https://uehwan.github.io/people/Ue-Hwan-Kim/). I am currently pursuing my Master’s degree at GIST.
+Hi there! I recently earned my Bachelor’s degree in Electrical Engineering and Computer Science from the Gwangju Institute of Science and Technology (GIST), where I was advised by Prof. [Ue-hwan Kim](https://uehwan.github.io/people/Ue-Hwan-Kim/). I am currently pursuing my Master’s degree at GIST.
 
 My research interests generally focus on computer vision and robot manipulations. Currently, I am particularly interested in (1) understanding and improving Vision-Language-Action (VLA) models, and (2) Developing reliable task planning that can adapt effectively to unforeseen situations. My goal is to enable robots to behave reliably in diverse real-world scenarios and interact seamlessly with humans.
 
