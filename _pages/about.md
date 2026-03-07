@@ -29,6 +29,6 @@ Hi there! I recently earned my Bachelor’s degree in Electrical Engineering and
 
 My research interests generally focus on computer vision and robot manipulations. Currently, I am particularly interested in (1) understanding and improving Vision-Language-Action (VLA) models, and (2) Developing reliable task planning that can adapt effectively to unforeseen situations. My goal is to enable robots to behave reliably in diverse real-world scenarios and interact seamlessly with humans.
 
-You can find my papers and CV in here! [publications](/publications/) [CV](/cv/)
+You can find my papers in here! [publications](/publications/)
 
-Feel free to get in touch! [email](mailto:junyoung27@gm.gist.ac.kr) or [LinkedIn](https://www.linkedin.com/in/juneyoung-yoon-455750332/).
+Feel free to get in touch! [junyoung27@gm.gist.ac.kr](mailto:junyoung27@gm.gist.ac.kr) or [LinkedIn](https://www.linkedin.com/in/juneyoung-yoon-455750332/).
